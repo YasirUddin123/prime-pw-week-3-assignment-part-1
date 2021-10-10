@@ -104,3 +104,5 @@ console.log('Removed the first food', removedFirstFood);
 console.log('The foods are now', favoriteFoods);
 
 // ran this on the console
+
+// ready for final submission 
